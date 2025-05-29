@@ -3,7 +3,6 @@ package QueueReconstructionByHeight;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class Solution {
     public int[][] reconstructQueue(int[][] people) {
